@@ -48,7 +48,7 @@ local function ApplyModel(Model)
             local Distance = (Camera.CFrame.Position - Model.Torso.Position).Magnitude
 
             if OnScreen and Model.Parent.Name ~= game:GetService("Players").LocalPlayer.Team.Name and Visibility then
-                Objects.Name.Position = Vector2.new(Vector.X, Vector.Y + math.clamp(Distance / 10, 10, 30) - 10)
+                Objects.Name.Position = Vector2.new(Vector.X, Vector.Y + math.clamp(Distance / 10, 10, 30) - 1)
                 Objects.Name.Size = math.clamp(30 - Distance / 10, 10, 30)
                 Objects.Name.Color = Color3.fromHSV(math.clamp(Distance / 5, 0, 125) / 255, 0.75, 1)
                 Objects.Name.Visible = true
