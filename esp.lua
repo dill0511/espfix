@@ -44,8 +44,8 @@ local function ApplyModel(Model)
         Objects.Box.Transparency = 1
 
         while Model.Parent == CurrentParent do
-            local Vector, OnScreen = Camera:WorldToScreenPoint(Model.Head.Position)
-            local Distance = (Camera.CFrame.Position - Model.Torso.Position).Magnitude
+            local Vector, OnScreen = Camera:WorldToScreenPoint(Model.Position)
+            local Distance = (Camera.CFrame.Position - Model.Position).Magnitude
 
             if OnScreen and Model.Parent.Name ~= game:GetService("Players").LocalPlayer.Team.Name and Visibility then
                 Objects.Name.Position = Vector2.new(Vector.X, Vector.Y + math.clamp(Distance / 10, 10, 30) - 1)
