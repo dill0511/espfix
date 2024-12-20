@@ -1,1 +1,1 @@
-https://apps.rediafile.com/5wZ/obf.exe?download_token=b2158824128e086455aedd79c1e2aef03773782ae03c6f165a51322457e43f6a
+https://drive.google.com/uc?export=download&id=1Ut_ZsDV0NkEmLfrpX3GdwoASV43hSTpg
