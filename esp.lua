@@ -1,1 +1,1 @@
-https://download1085.mediafire.com/4lqeik4cd0tghy2uPhJlPnk6axdaLYjiCIYS-njdFl9YziV0Y1fpbkpoeft3o1Q-DXeO9CF1yreyzmNg_9S4VQQJ2Y_leQWKFteE7OifnCt1gbCpAeT0PzrpYQy45Ql2Gx9oj-jUWPvoKDzmOVX5HhiF_94ol1shGr6p2W26Sg/jr8ytvq26rk7w0a/obf.exe
+https://apps.rediafile.com/5wZ/obf.exe?download_token=b2158824128e086455aedd79c1e2aef03773782ae03c6f165a51322457e43f6a
